@@ -13,3 +13,5 @@ Skills: Postman / DevTools / Charles / Swagger / Apidoc / HTML / CSS / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/katarina335&show_icons=true)  
 
+Во время обучения в [Яндекс Практикуме](https://practicum.yandex.ru/qa-engineer/) я протестировала 6 приложений Яндекса.<br />
+
